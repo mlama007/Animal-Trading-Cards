@@ -6,7 +6,7 @@ img {
     text-align: center;
 }
 
-#fact {
+.fact {
     font-style: italic;
 }
 
@@ -16,18 +16,18 @@ img {
     padding: 5px 25px 25px 25px;
     margin: 20px;
     width: 350px;
-    border: 1px solid #bbbbbb; 
+    border: 1px solid #bbb;
     -webkit-box-shadow: 10px 10px 40px -18px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 40px -18px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 40px -18px rgba(0,0,0,0.75);
 }
 
-span {
+.bold {
     font-weight: bold;
 }
 
 .inner {
-    border: 1px solid #bbbbbb;
+    border: 1px solid #bbb;
     padding: 0px 10px;
     margin-top: 20px;
 }
